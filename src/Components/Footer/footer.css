@@ -1,0 +1,16 @@
+footer{
+    min-height: 50px;
+    background-color: var(--orange);
+}
+.soc-link{
+    font-size: 22px;
+    margin: 10px;
+    color: white
+}
+.soc-link:hover{
+    color: white;
+}
+.footer-nav-element{
+    font-size: 20px;
+    color: white
+}
